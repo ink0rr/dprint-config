@@ -1,0 +1,22 @@
+{
+  "typescript": {
+    "binaryExpression.operatorPosition": "sameLine",
+    "bracePosition": "sameLine",
+    "constructSignature.spaceAfterNewKeyword": true,
+    "constructorType.spaceAfterNewKeyword": true,
+    "arrowFunction.useParentheses": "force",
+    "functionExpression.spaceAfterFunctionKeyword": true,
+    "conditionalExpression.preferSingleLine": true,
+    "quoteStyle": "preferDouble",
+    "module.sortImportDeclarations": "caseSensitive",
+    "importDeclaration.sortNamedImports": "caseSensitive",
+    "module.sortExportDeclarations": "caseSensitive",
+    "exportDeclaration.sortNamedExports": "caseSensitive"
+  },
+  "json": {
+    "trailingCommas": "never"
+  },
+  "markdown": {
+    "textWrap": "always"
+  }
+}
